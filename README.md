@@ -31,7 +31,7 @@ cognitive dissonance, epistemic dissonance, foreign language effect, bilingualis
 ### Cite this work:
 
 ```
-Kahl, P. (2025). Speaking into Dissonance: Foreign Language Learning, Cognitive Dissonance, and Epistemic Plurality. Lex et Ratio Ltd 2025. https://doi.org/10.13140/RG.2.2.22256.93449
+Kahl, P. (2025). Speaking into Dissonance: Foreign Language Learning, Cognitive Dissonance, and Epistemic Plurality. Lex et Ratio Ltd. https://doi.org/10.13140/RG.2.2.22256.93449
 ```
 
 ### Publisher & Licence
