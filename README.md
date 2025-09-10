@@ -6,7 +6,7 @@
 
 by Peter Kahl, 10 September 2025
 
-DOI:
+DOI: 10.13140/RG.2.2.22256.93449
 
 ![alt text](https://github.com/Peter-Kahl/Speaking-into-Dissonance/blob/main/language_dissonance.jpg?raw=true)
 
@@ -31,7 +31,7 @@ cognitive dissonance, epistemic dissonance, foreign language effect, bilingualis
 ### Cite this work:
 
 ```
-Peter Kahl, Speaking into Dissonance: Foreign Language Learning, Cognitive Dissonance, and Epistemic Plurality (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Speaking-into-Dissonance>
+Kahl, P. (2025). Speaking into Dissonance: Foreign Language Learning, Cognitive Dissonance, and Epistemic Plurality. Lex et Ratio Ltd 2025. https://doi.org/10.13140/RG.2.2.22256.93449
 ```
 
 ### Publisher & Licence
