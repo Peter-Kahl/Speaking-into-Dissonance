@@ -24,11 +24,11 @@ cognitive dissonance, epistemic dissonance, foreign language effect, bilingualis
 
 ---
 
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+### Download Latest Edition
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Speaking-into-Dissonance/master/Kahl_P_Speaking_into_Dissonance_10-SEP-2025.pdf)
 
-### Cite this work:
+### Cite this work
 
 ```
 Kahl, P. (2025). Speaking into Dissonance: Foreign Language Learning, Cognitive Dissonance, and Epistemic Plurality. Lex et Ratio Ltd. https://doi.org/10.13140/RG.2.2.22256.93449
