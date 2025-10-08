@@ -14,15 +14,15 @@ by Peter Kahl, 10 September 2025
 
 This study argues that foreign language learning constitutes a unique form of epistemic training in dissonance tolerance. Drawing on Festinger’s theory of cognitive dissonance, evolutionary evidence from children and non-human primates, and recent work on the Foreign Language Effect (FLe), I reframe linguistic discomfort not as a pedagogical hurdle but as an epistemic event. Speaking in a second language (L2) exposes the learner to repeated misalignments between intention and expression, producing dissonance that is neither pathological nor incidental, but constitutive of knowledge itself. Integrating behavioural and fMRI studies on belief resistance, cross-cultural research on conformity, and my own _Epistemic Clientelism Theory_, I show how foreign language use habituates learners to plurality, weakens conformity pressures, and fosters democratic resilience. The study contributes theoretically by reconceptualising dissonance epistemically; empirically by bringing bilingualism and neuroscience into dialogue with governance debates; and normatively by positioning language education as scaffolding for pluralist democracy.
 
-## Working Paper Status
-
-This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
-
 ## Keywords
 
 cognitive dissonance, epistemic dissonance, foreign language effect, bilingualism, second language acquisition, epistemic plurality, epistemic clientelism, epistemic justice, conformity, autonomy, authority, cognitive flexibility, belief revision, neuroscience of language, dual-systems theory, democratic pedagogy, higher education, knowledge governance, epistemic resilience, epistemic agency
 
-## Download Latest Edition
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
+
+## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Speaking-into-Dissonance/master/Kahl_P_Speaking_into_Dissonance_10-SEP-2025.pdf)
 
