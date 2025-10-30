@@ -30,8 +30,7 @@ Kahl, P. (2025). _Speaking into Dissonance: Foreign Language Learning, Cognitive
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd, 2025-09-10.
+First published in London by Lex et Ratio Ltd, 2025-09-10.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
