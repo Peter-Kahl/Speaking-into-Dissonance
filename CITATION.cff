@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+title: "Speaking into Dissonance: Foreign Language Learning, Epistemic Dissonance, and the Location of Difficulty"
+version: "2.0"
+date-released: 2026-10-27
+doi: 10.5281/zenodo.23683678
+url: "https://doi.org/10.5281/zenodo.23683678"
+repository-code: "https://github.com/Peter-Kahl/Speaking-into-Dissonance"
+license: CC-BY-4.0
+authors:
+  - family-names: Kahl
+    given-names: Peter
+    orcid: "https://orcid.org/0009-0003-1616-4843"
+    affiliation: "Independent researcher, Lex et Ratio"
+    email: peter.kahl@lexetratio.com
+keywords:
+  - explanatory authority
+  - epistemic dissonance
+  - location of difficulty
+  - foreclosure
+  - premature closure
+  - epistemic dependence
+  - delegation
+  - second language acquisition
+  - thinking for speaking
+  - foreign language effect
+  - corrective feedback
+  - accent and credibility
+  - AI-mediated language learning
+  - philosophy of education
+abstract: >-
+  An accurate correction is not necessarily an adequate explanation, and an
+  adequate explanation does not by itself mean that the person receiving it
+  can evaluate it. This paper develops a normative account of explanatory
+  authority, authority over where a difficulty is taken to lie, using
+  second-language speaking as its principal case, and proposes a criterion
+  for teaching, listeners and AI language tools.
+preferred-citation:
+  type: report
+  title: "Speaking into Dissonance: Foreign Language Learning, Epistemic Dissonance, and the Location of Difficulty"
+  authors:
+    - family-names: Kahl
+      given-names: Peter
+      orcid: "https://orcid.org/0009-0003-1616-4843"
+  collection-title: "Lex et Ratio Working Papers"
+  number: "LXR-2026-EDU-SPKDIS-WP"
+  version: "2.0"
+  year: 2026
+  month: 10
+  publisher:
+    name: "Lex et Ratio"
+    city: London
+  doi: 10.5281/zenodo.23683678
+  url: "https://doi.org/10.5281/zenodo.23683678"
