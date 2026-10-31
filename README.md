@@ -14,7 +14,7 @@
 
 - [**Version 2.0 (PDF)**](LXR-2026-EDU-SPKDIS-WP_v2_2026-10-27.pdf) · 33 pages · c. 11,000 words
 - Zenodo record: https://doi.org/10.5281/zenodo.23683678
-- PhilPapers: https://philpapers.org/rec/KAHSID
+- ResearchGate: https://www.researchgate.net/publication/416933535
 
 ## Abstract
 
